@@ -1,11 +1,11 @@
 
 TITLE: 
-Education - 100% Fully Responsive Free HTML5 Bootstrap Template
+Education - 100% Fully Responsive Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Liyab Kwasi
 
-Website: http://freehtml5.co/
+Website: http://12liyab.io/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
