@@ -177,7 +177,7 @@ jQuery.extend( jQuery.easing,
  * 
  * Open source under the BSD License. 
  * 
- * Copyright Ã‚Â© 2024 Liyab 
+ * Copyright Ã‚Â© 2024 Liyab K
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without modification, 
