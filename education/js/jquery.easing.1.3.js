@@ -8,7 +8,7 @@
  * 
  * Open source under the BSD License. 
  * 
- * Copyright Ã‚Â© 2024 Liyab McGinl
+ * Copyright Ã‚Â© 2024 Liyab McGin
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without modification, 
