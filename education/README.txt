@@ -1,6 +1,6 @@
 
 TITLE: 
-Education - 100% Fully Responsive Website 
+Education - 100% Fully Responsive Website
 
 AUTHOR:
 DESIGNED & DEVELOPED by Liyab Kwasi
