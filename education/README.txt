@@ -1,5 +1,5 @@
 
-TITLE:
+TITLE: 
 Education - 100% Fully Responsive Website
 
 AUTHOR:
