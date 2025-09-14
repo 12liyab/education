@@ -3,7 +3,7 @@ TITLE:
 Education - 100% Fully Responsive Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by Liyab Kwasi
+DESIGNED & DEVELOPED by Liyab Kwasi 
 
 Website: http://12liyab.io/
 Twitter: http://twitter.com/fh5co
